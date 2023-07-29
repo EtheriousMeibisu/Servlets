@@ -3,6 +3,7 @@ package netology.controller;
 import com.google.gson.Gson;
 import netology.model.Post;
 import netology.service.PostService;
+import org.springframework.stereotype.Controller;
 
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
